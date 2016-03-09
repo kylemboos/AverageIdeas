@@ -1,0 +1,27 @@
+.head-wrapper{
+  height:100vh;
+  background-color: #00e7fd;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.helper {
+    display: inline-block;
+    height: 95%;
+    vertical-align: middle;
+}
+
+img{
+    vertical-align: middle;
+    max-height: 300px;
+    max-width: auto;
+}
+
+.about-wrapper{
+  min-height:60vh;
+}
+
+.episodes-wrapper{
+  min-height:70vh;
+  background-color:#ff7500;
+}
